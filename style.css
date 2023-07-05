@@ -1,0 +1,98 @@
+
+.container1{
+	background-image:url(images/image1.png);
+	background-color:seagreen;
+}
+
+.container2{
+	background-image:url(images/image1.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:powderblue;
+}
+
+.container3{
+	background-image:url(images/image1.png);
+	background-repeat:repeat-x;
+	background-color:red;
+	
+}
+
+.container4{
+	background-image:url(images/image1.png);
+	background-repeat:repeat-y;
+	background-color:yellow;
+	
+}
+
+.container5{
+	background-image:url(images/image1.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+	background-color:orange;
+}
+
+.container6{
+	background-image:url(images/image1.png);
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-color:green;
+}
+
+.container7{
+	background-image:url(images/image1.png);
+	background-position:right top;
+	background-repeat:no-repeat;	
+	background-color:brown;
+}
+
+.container8{
+	background-image:url(images/image1.png);
+	background-position:left center;
+	background-repeat:no-repeat;
+	background-color:violet;
+}
+
+.container9{
+	background-image:url(images/image1.png);
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-color:powderblue;
+}
+
+.container10{
+	background-image:url(images/image1.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
+
+
+.container11{
+	background-image:url(images/image1.png);
+	background-position:left bottom;
+	background-repeat:no-repeat;
+	background-color:seagreen;
+}
+
+.container12{
+	background-image:url(images/image1.png);
+	background-position:center bottom;
+	background-repeat:no-repeat;
+	background-color:gray;
+}
+
+.container13{
+	background-image:url(images/image1.png);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+	background-color:red;
+}
+
+.container14{
+	background-image:url(images/image.gif);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-color:powderblue;
+}
